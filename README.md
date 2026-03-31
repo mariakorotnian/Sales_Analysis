@@ -1,6 +1,6 @@
-# 🛒 Exploratory Data Analysis (EDA): Online Store Sales Performance
+#  Exploratory Data Analysis (EDA): Online Store Sales Performance
 
-## 🌟 Project Overview
+##  Project Overview
 This project focuses on a detailed analysis of e-commerce operational data. The goal is to evaluate sales trends, identify high-performing product categories, and analyze geographical distribution to provide actionable business insights.
 
 ## 🛠 Tech Stack
@@ -9,7 +9,7 @@ This project focuses on a detailed analysis of e-commerce operational data. The 
 - **Visualization:** Matplotlib, Seaborn
 - **Environment:** Google Colab
 
-## 📈 Key Analysis Phases
+## Key Analysis Phases
 
 ### 1. Sales Dynamics & Seasonality
 Analysis of monthly revenue trends to identify peak performance periods.
@@ -32,7 +32,7 @@ Using Scatter Plots to visualize the relationship between total sales and net pr
 
 ---
 
-## 📊 Visual Highlights
+##  Visual Highlights
 
 #### Monthly Revenue Trends:
 *<img width="1378" height="678" alt="download (1)" src="https://github.com/user-attachments/assets/792c76a5-c3df-4d70-af14-81610ca27270" />
