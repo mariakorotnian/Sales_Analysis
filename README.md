@@ -3,7 +3,7 @@
 ##  Project Overview
 This project focuses on a detailed analysis of e-commerce operational data. The goal is to evaluate sales trends, identify high-performing product categories, and analyze geographical distribution to provide actionable business insights.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language:** Python 3.x
 - **Data Manipulation:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
@@ -35,14 +35,14 @@ Using Scatter Plots to visualize the relationship between total sales and net pr
 ##  Visual Highlights
 
 #### Monthly Revenue Trends:
-*<img width="1378" height="678" alt="download (1)" src="https://github.com/user-attachments/assets/792c76a5-c3df-4d70-af14-81610ca27270" />
-*
+<img width="1378" height="678" alt="download (1)" src="https://github.com/user-attachments/assets/792c76a5-c3df-4d70-af14-81610ca27270" />
+
 
 #### Regional Sales Distribution:
-*<img width="1578" height="997" alt="download" src="https://github.com/user-attachments/assets/ce8036d2-8fd5-46f9-b774-9549da46793d" />
-*
-*<img width="1182" height="978" alt="download (3)" src="https://github.com/user-attachments/assets/d12e6212-3a35-4681-a9aa-acb7a295089a" />
-*
+<img width="1578" height="997" alt="download" src="https://github.com/user-attachments/assets/ce8036d2-8fd5-46f9-b774-9549da46793d" />
+
+<img width="1182" height="978" alt="download (3)" src="https://github.com/user-attachments/assets/d12e6212-3a35-4681-a9aa-acb7a295089a" />
+
 ---
 
 ##  How to Run
