@@ -48,6 +48,3 @@ Using Scatter Plots to visualize the relationship between total sales and net pr
 ##  How to Run
 Open `Exploratory_data_analysis_for_online_store.ipynb` in [Google Colab](https://colab.research.google.com/drive/1awv6_zVsDLMdMw0uDxJogn9D8QedtElk#scrollTo=pzhXSmsiyaxs).
 
-
----
-*Created as part of a Data Analytics portfolio project.*
